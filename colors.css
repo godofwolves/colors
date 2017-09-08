@@ -1,0 +1,67 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+body {
+	width: 95%;
+	height:95%;
+	background-color: grey;
+}
+
+div {
+	float: left;
+}
+.threeblock {
+ background-color: red; 
+ width: 19%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:;
+	  
+}
+
+.twoblock {
+  background-color: gold; 
+ width: 30%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:blue;
+}
+
+.oneblock {
+background-color:aqua; 
+ width: 50%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:purple;
+}
+
+.fourblock {
+background-color: white; 
+ width: 50%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: black; 
+}
+
+.fiveblock {
+ background-color: #6E2AA1; 
+ width: 49%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: white;
+}
+p {
+	padding-top: 80;
+}
+.bottom {
+	padding-top: 250px;
+}
